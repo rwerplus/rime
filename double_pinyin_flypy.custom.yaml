@@ -1,0 +1,15 @@
+patch:
+  engine/translators/+:
+    - lua_translator@time_translator
+    - lua_translator@date_translator
+    - lua_translator@week_translator
+    - table_translator@custom_phrase
+  engine/filters/+:
+    - uniquifier
+  custom_phrase:
+    dictionary: ''
+    user_dict: custom_phrase
+    db_class: stabledb
+    enable_completion: false
+    enable_sentence: false
+    initial_quality: 1

@@ -1,0 +1,30 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: extended
+version: "2023-08-28"
+
+import_tables:
+  # 覆盖词频
+  - dicts/simp # 最小拼音词典
+
+  - dicts/thuocl_animal # 动物
+  - dicts/thuocl_caijing # 财经
+  - dicts/thuocl_food # 饮食
+  - dicts/thuocl_idiom # 成语俗语
+  - dicts/thuocl_IT # IT
+  - dicts/thuocl_medical # 医学
+  - dicts/thuocl_renmingdiming # 人名地名
+
+  - dicts/simp-ext # 原字表中除单字外部分
+  - dicts/sogou_net # 网络流行语
+
+  # 一点点小小的私货，不需要的可以自行关闭~
+  - dicts/sogou_genshin # 原神
+  - dicts/sogou_minecraft # Minecraft 词条
+  - dicts/sogou_touhou # 东方 Project
+
+  # emoji 中的词库
+  - dicts/emoji
+...

@@ -1,0 +1,22 @@
+# Rime user dictionary
+#@/db_name	xhup_luna
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	9
+#@/user_id	a67da375-4ab1-4331-be02-078713dfce08
+gcdi 	高低	c=1 d=1 t=9
+mwyz 	没有	c=1 d=0.995012 t=9
+veli 	着力	c=1 d=0.970446 t=9
+veli 	这里	c=1 d=0.985112 t=9
+xlfa 	想法	c=1 d=0.960789 t=9
+zdwo 	在我	c=1 d=0.965605 t=9
+encdxfa 	的想法	c=0 d=0.0960789 t=9
+encdxfl 	的想法在我着力	c=0 d=0.0970446 t=9
+encdxfw 	的想法在我	c=0 d=0.0965605 t=9
+encmygd 	没有高低	c=0 d=0.1 t=9
+encndxf 	你的想法	c=0 d=0.0960789 t=9
+encndxl 	你的想法在我着力	c=0 d=0.0970446 t=9
+encndxw 	你的想法在我	c=0 d=0.0965605 t=9
+encxfzl 	想法在我着力	c=0 d=0.0970446 t=9
+encxfzw 	想法在我	c=0 d=0.0965605 t=9
+enczwvl 	在我着力	c=0 d=0.0970446 t=9

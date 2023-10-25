@@ -1,0 +1,10 @@
+# Rime user dictionary
+#@/db_name	extended
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	4
+#@/user_id	a67da375-4ab1-4331-be02-078713dfce08
+fang an 	方案	c=1 d=1 t=4
+shuang pin 	双拼	c=1 d=0.995012 t=4
+wo de 	我的	c=1 d=0.99005 t=4
+zhe shi 	这是	c=1 d=0.985112 t=4

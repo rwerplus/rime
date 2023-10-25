@@ -1,0 +1,95 @@
+# Rime table
+# coding: utf-8
+#
+# 请将该文件以UTF-8编码保存为
+# Rime用户文件夹/custom_phrase.txt
+#
+# 码表各字段以制表符（Tab）分隔
+# 顺序为：文字、编码、权重（决定重码的次序、可选）
+#
+# 虽然文本码表编辑较为方便，但不适合导入大量条目
+
+中州韵输入法引擎	rime	2
+https://rime.im/	rime	1
+Rime	rime	3
+⌘	cmd
+⌘	command
+⌃	ctl
+⌃	control
+⌥	opt
+⌥	option
+⇧	shift
+
+Android	android
+Apple	apple
+Apple ID	appleid
+Clash	clash
+Cloudflare	cloudflare
+Cloudflare Workers	cloudflareworkers
+CSS	css
+Dropbox	dropbox
+GBK	gbk
+GitHub	github
+Google	google
+Linux linux
+HTML	html
+iCloud	icloud
+iMac	imac
+iOS	ios
+iPad	ipad
+iPad	ipad
+iPhone	iphone
+iPhone Xʀ	iphonexr
+iPod	ipod
+IPTV	iptv
+IPv4	ipv
+IPv6	ipv
+iTunes	itunes
+Java	java
+JavaScript	javascript
+jQuery	jquery
+Linux	linux
+Mac	mac
+Mac App Store	mas
+MacBook	macbook
+MacBook Air	mba
+MacBook Pro	mbp
+macOS	macos	7
+macOS Sonoma	macos	6
+macOS Ventura	macos	5
+macOS Monterey	macos	4
+macOS Catalina	macos	3
+macOS Mojave	macos	2
+macOS High Sierra	macos	1
+Magisk	magisk
+Minecraft	minecraft
+MySQL	mysql
+Objective-C	ojbc
+OneDrive	onedrive
+OS X	osx
+Pixel	pixel
+Python	python
+QQ 邮箱	qqyzxl
+Quantumult	quantumult
+Ruby	ruby
+Rust	rust
+SQL	sql
+Stash	stash
+Surge	surge
+Swift	swift
+Tailscale	tailscale
+TypeScript	typescript
+T恤	txu
+UTF-8	utfba
+U盘	upj
+WeChat	wechat
+Wi-Fi	wifi
+Windows	win
+Windows	windows
+X-Ray	xray
+Xbox	xbox
+Xbox One	xboxone
+YouTube	youtube
+ZeroTier	zerotier
+又双叒叕	yyy
+又双叒叕	yzyzyz

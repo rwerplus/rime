@@ -1,0 +1,123 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	155
+#@/user_id	a67da375-4ab1-4331-be02-078713dfce08
+a 	啊	c=1 d=0.722527 t=155
+bao jing 	報警	c=1 d=0.752014 t=155
+bei 	北	c=1 d=0.923116 t=155
+bi 	比	c=1 d=0.814647 t=155
+bu hao 	不好	c=1 d=0.718924 t=155
+bu hui 	不會	c=1 d=0.831104 t=155
+bu tai 	不太	c=0 d=0.0790571 t=155
+bu tai yi yang 	不太一樣	c=1 d=0.794534 t=155
+bu zhi dao 	不知道	c=1 d=0.647265 t=155
+can liu 	殘留	c=1 d=0.965605 t=155
+chong xin 	重新	c=1 d=0.970446 t=155
+de 	的	c=15 d=10.4532 t=155
+dei 	得	c=1 d=0.891366 t=155
+di bu 	底部	c=1 d=0.726149 t=155
+di fang 	地方	c=1 d=0.913931 t=155
+dou 	都	c=1 d=0.806541 t=155
+fa 	法	c=1 d=0.83527 t=155
+fan ti 	繁體	c=1 d=0.995012 t=155
+fang an 	方案	c=1 d=0.66034 t=155
+fu wu 	服務	c=1 d=1.01405 t=155
+gei 	給	c=0 d=0.0763379 t=155
+guan zhu 	關注	c=1 d=0.66365 t=155
+hai shi 	還是	c=1 d=0.666977 t=155
+hai you 	還有	c=1 d=0.960789 t=155
+hao dian 	好點	c=1 d=0.904837 t=155
+he 	和	c=1 d=0.740818 t=155
+he ni men 	和你們	c=1 d=0.786628 t=155
+hen 	很	c=1 d=0.852144 t=155
+hou 	後	c=1 d=0.955997 t=155
+hui 	會	c=1 d=0.88692 t=155
+ji zhu 	記住	c=1 d=0.951229 t=155
+jian pan 	鍵盤	c=1 d=0.970446 t=155
+jian ti 	簡體	c=1 d=0.873716 t=155
+jing ji 	經濟	c=1 d=0.715338 t=155
+jiu shi 	就是	c=1 d=0.918512 t=155
+ju ti 	具體	c=1 d=0.970446 t=155
+jue dui 	絕對	c=1 d=0.826959 t=155
+kai men 	開門	c=1 d=0.771052 t=155
+kan 	看	c=1 d=0.995012 t=155
+lang gou 	狼狗	c=1 d=0.941765 t=155
+lao 	老	c=0 d=0.0763379 t=155
+lao mu zhu gei niu 	老母豬給牛	c=1 d=0.767206 t=155
+le 	了	c=1 d=0.932394 t=155
+liu ge 	六個	c=1 d=0.937067 t=155
+ma fan 	麻煩	c=1 d=0.856415 t=155
+me 	麼	c=1 d=0.822835 t=155
+mei kan dao 	沒看到	c=1 d=0.860708 t=155
+mei you 	沒有	c=1 d=0.88692 t=155
+mu zhu 	母豬	c=0 d=0.0763379 t=155
+na li 	哪裏	c=0 d=0.0923116 t=155
+na zhi dao 	哪知道	c=1 d=0.822835 t=155
+ne 	呢	c=11 d=7.19272 t=155
+ni 	你	c=3 d=2.59994 t=155
+ni de 	你的	c=1 d=0.67368 t=155
+niu 	牛	c=0 d=0.0763379 t=155
+pan duan 	判斷	c=1 d=0.697676 t=155
+pin yin 	拼音	c=1 d=0.989457 t=155
+qi shi 	其實	c=1 d=0.687289 t=155
+qu 	取	c=1 d=0.995012 t=155
+ri li 	日曆	c=1 d=0.928031 t=155
+ri li zu jian 	日曆組建	c=1 d=0.847894 t=155
+se 	色	c=1 d=1 t=155
+shang 	上	c=1 d=0.927743 t=155
+shang mian 	上面	c=1 d=0.744532 t=155
+shen me 	什麼	c=1 d=0.980199 t=155
+shi 	是	c=5 d=2.89424 t=155
+shi bie 	識別	c=1 d=0.810584 t=155
+shi fou 	是否	c=1 d=0.704688 t=155
+shi hou 	時候	c=1 d=0.701173 t=155
+shi yong 	使用	c=1 d=0.985112 t=155
+shou fa 	手法	c=1 d=0.980199 t=155
+shu ru 	姝如	c=1 d=0.839457 t=155
+shu ru 	輸入	c=1 d=0.831104 t=155
+shu ru fa 	輸入法	c=4 d=2.77663 t=155
+shu zu 	數組	c=1 d=0.71177 t=155
+shuang pin 	雙拼	c=3 d=2.04299 t=155
+song 	宋	c=1 d=0.980199 t=155
+suan fa 	算法	c=0 d=0.0909373 t=155
+suan fa fu wu 	算法服務	c=1 d=0.913931 t=155
+wai guo 	外國	c=1 d=0.798516 t=155
+wei 	爲	c=1 d=0.70822 t=155
+wen zi 	文字	c=1 d=0.763379 t=155
+wo 	我	c=6 d=5.05184 t=155
+wo yong 	我用	c=1 d=0.774916 t=155
+wo zen me hui 	我怎麼會	c=1 d=0.955997 t=155
+xian zai 	現在	c=1 d=0.900325 t=155
+xiang fa 	想法	c=3 d=1.71537 t=155
+xiao 	小	c=3 d=2.1453 t=155
+xiao he 	小河	c=0 d=0.185215 t=155
+xiao he pin yin 	小河拼音	c=1 d=0.895834 t=155
+xiao he shuang pin 	小河雙拼	c=1 d=0.965605 t=155
+xie 	寫	c=1 d=0.839457 t=155
+xie zai 	卸載	c=1 d=0.951229 t=155
+xu yao 	需要	c=2 d=1.36106 t=155
+xuan xiang 	選項	c=1 d=0.882497 t=155
+yan se 	顏色	c=2 d=1.49291 t=155
+yi yang 	一樣	c=0 d=0.0790571 t=155
+yi zhi 	一致	c=1 d=0.759572 t=155
+you xiao 	有效	c=1 d=0.97531 t=155
+yue liang 	月亮	c=1 d=0.806541 t=155
+za 	咋	c=0 d=0.0923116 t=155
+za na li 	咋哪裏	c=1 d=0.927743 t=155
+zen me 	怎麼	c=2 d=1.55275 t=155
+zen me hui 	怎麼會	c=0 d=0.0951229 t=155
+zen me kan 	怎麼看	c=2 d=1.96536 t=155
+zhe ge 	這個	c=1 d=0.733447 t=155
+zhe xie 	這些	c=1 d=0.955997 t=155
+zhen de 	真的	c=1 d=0.810584 t=155
+zhi dao 	知道	c=2 d=1.66242 t=155
+zhi shi 	知識	c=1 d=0.960789 t=155
+zhi you 	只有	c=1 d=0.932394 t=155
+zhong guo 	中國	c=1 d=0.818731 t=155
+zhong wen 	中文	c=1 d=0.865022 t=155
+zi 	字	c=1 d=1 t=155
+zi ji 	自己	c=2 d=1.7311 t=155
+zi ti 	字體	c=1 d=0.644036 t=155
+zu jian 	組建	c=0 d=0.0843665 t=155
