@@ -16,7 +16,7 @@
 
 # 使用
 
-安装步骤： 备份原有配置（如果有的话）下载[仓库压缩包](git@github.com:rwerplus/rime.git) 并解压 打开 用户设定 将本仓库中除了 README.md、resouces 文件夹除外的所有文件复制到 用户设定 文件夹中 重新部署鼠须管 Windows 个人主要使用 Windows，所以其它平台的配置可能会有些小问题
+安装步骤： 备份原有配置（如果有的话）下载 [仓库压缩包](https://github.com/rwerplus/rime) 并解压 打开 用户设定 将本仓库中除了 README.md、resouces 文件夹除外的所有文件复制到 用户设定 文件夹中 重新部署鼠须管 Windows 个人主要使用 Windows，所以其它平台的配置可能会有些小问题
 
 ～ 注意 ⚠️：Windows 7 只能使用 0.14.3 版本
 
