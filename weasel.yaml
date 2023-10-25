@@ -47,9 +47,9 @@ style:
   color_scheme: win11_weasel # 颜色方案
 
 preset_color_schemes:
-  ayaya:
-    name: "文文／Ayaya"
-    author: "Lufs X <i@isteed.cc>"
+  Lumk:
+    name: "鹿鸣／Lumk"
+    author: "Lumk X <x@xx.cc>"
     back_color: 0xF9F9F9
     border_color: 0xE2E7F5
     candidate_text_color: 0x121212
@@ -62,15 +62,6 @@ preset_color_schemes:
     label_color: 0x888785
     text_color: 0x8100EB
     shadow_color: 0x20000000
-
-  apathy:
-    name: 冷漠／Apathy
-    author: LIANG Hai
-    back_color: 0xFFFFFF
-    text_color: 0x424242
-    hilited_candidate_text_color: 0xEE6E00
-    hilited_candidate_back_color: 0xFFF0E4
-    comment_text_color: 0x999999
 
   win10:
     candidate_text_color: 0x000000
