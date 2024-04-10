@@ -2,21 +2,160 @@
 #@/db_name	flypy_xhfast
 #@/db_type	userdb
 #@/rime_version	1.8.5
-#@/tick	15
+#@/tick	94
 #@/user_id	a67da375-4ab1-4331-be02-078713dfce08
-fj ye 	翻页	c=2 d=1.99501 t=8
-hf vs yc 	很重要	c=0 d=0.1 t=8
-kk[xg 	快	c=2 d=1.97516 t=15
-ne[kb 	呢	c=1 d=1 t=6
-ni ui zf me 	你是怎么	c=2 d=1.99501 t=4
-pb yb 	拼音	c=2 d=1.98506 t=15
-qp[la 	且	c=1 d=1 t=7
-tj td jb 	澹台烬	c=1 d=1 t=15
-ui[oc 	时	c=1 d=1 t=12
-ui[zk 	适	c=2 d=1.99501 t=11
-uu ru 	输入	c=2 d=1.99501 t=15
-xl de 	想的	c=2 d=1.99501 t=5
-xl fa 	想法	c=0 d=0.1 t=8
-xl fa hf vs yc 	想法很重要	c=1 d=1 t=9
-xn lh hc 	小狼毫	c=1 d=1 t=14
-yu yj fu wu 	语言服务	c=1 d=1 t=13
+an jk dm 	安静点	c=2 d=1.99501 t=104
+ba[kb 	吧	c=2 d=1.99501 t=62
+bc lq 	保留	c=4 d=3.89272 t=73
+bm ma 	编码	c=2 d=1.99501 t=27
+bm ww 	变为	c=2 d=1.99501 t=43
+bu ru 	不如	c=2 d=1.99501 t=88
+bu ug xn 	不生效	c=2 d=1.99501 t=39
+bu yc 	不要	c=2 d=1.99501 t=64
+bw[mb 	杯	c=1 d=1 t=22
+bw[py 	被	c=2 d=1.99501 t=23
+cc di uh 	草地上	c=2 d=1.7788 t=105
+cd[ap 	才	c=2 d=1.99501 t=81
+co wu 	错误	c=2 d=1.99501 t=22
+cr[bi 	窜	c=2 d=1.99501 t=99
+da ge 	大哥	c=1 d=1 t=109
+da ge 	打嗝	c=1 d=1 t=110
+da ge 	搭个	c=2 d=1.99501 t=111
+da xn 	大小	c=8 d=7.68963 t=74
+de[bu 	的	c=8 d=7.60881 t=58
+dj ui 	但是	c=2 d=1.99501 t=115
+do ci 	多次	c=2 d=1.99501 t=26
+ds[el 	动	c=1 d=1 t=77
+dz ui 	都是	c=2 d=1.99501 t=106
+ff xi 	分析	c=2 d=1.99501 t=81
+fg kl 	疯狂	c=2 d=1.99501 t=96
+fh an 	方案	c=2 d=1.99501 t=20
+fj ia 	反差	c=2 d=1.99501 t=28
+fj ia 	反查	c=2 d=1.99501 t=29
+fj ye 	翻页	c=4 d=2.81425 t=94
+fw he 	飞鹤	c=2 d=1.99501 t=23
+go qb 	国亲	c=1 d=1 t=89
+go qk 	国庆	c=2 d=1.99501 t=90
+gr jm zi 	关键字	c=2 d=1.99501 t=79
+gs ju 	工具	c=4 d=3.70357 t=82
+gs ng 	功能	c=4 d=3.87384 t=41
+gs zo ri 	工作日	c=2 d=1.99501 t=102
+gz[qk 	狗	c=2 d=1.99501 t=59
+hc wj 	好玩	c=2 d=1.99501 t=73
+hc[kv 	号	c=0 d=0.1 t=51
+he[hk 	和	c=6 d=5.6358 t=72
+hf vs yc 	很重要	c=0 d=0.0965605 t=94
+hs uj ds wu yr 	红山动物园	c=2 d=1.99501 t=78
+hs[db uj[lk 	洪山	c=2 d=1.99501 t=76
+hv yz 	会有	c=2 d=1.99501 t=83
+ia jm 	插件	c=2 d=1.99501 t=50
+jb tm 	今天	c=2 d=1.99501 t=73
+ji ge rf 	几个人	c=2 d=1.99501 t=107
+jk dm 	景点	c=4 d=3.87384 t=98
+jm hc 	减号	c=2 d=1.99501 t=48
+jm ia 	检查	c=1 d=1 t=50
+jp jx ri 	节假日	c=2 d=1.99501 t=94
+jq[wy 	就	c=2 d=1.99501 t=66
+jx hc 	加号	c=2 d=1.99501 t=46
+jx[bu 	家	c=2 d=1.99501 t=70
+ka fj 	卡饭	c=2 d=1.99501 t=87
+kj[uo 	看	c=2 d=1.99501 t=53
+kk jp jm 	快捷键	c=5 d=4.89199 t=25
+kk[xg 	快	c=4 d=2.72985 t=94
+la zz 	拉走	c=2 d=1.99501 t=60
+lb ju 	邻居	c=4 d=3.85515 t=69
+le[vl 	了	c=2 d=1.99501 t=61
+lq ll 	流量	c=1 d=1.099 t=80
+lu jk 	路径	c=3 d=2.97521 t=21
+mf kz 	门口	c=2 d=1.99501 t=71
+mw yz 	没有	c=2 d=1.99501 t=116
+mw[yd 	美	c=1 d=1 t=57
+na jq hc 	那就好	c=2 d=1.99501 t=63
+na xp rf 	那些人	c=2 d=1.99501 t=95
+ne[kb 	呢	c=1 d=0.955997 t=94
+ni ui zf me 	你是怎么	c=2 d=1.88825 t=94
+nj jk 	南京	c=0 d=0.1 t=51
+nj jk yz ge hc[kv 	南京有个号	c=1 d=1 t=52
+nw cy 	内存	c=12 d=10.2252 t=84
+pb yb 	拼音	c=2 d=1.98506 t=94
+ph[ob 	胖	c=1 d=1 t=77
+pj dr 	判断	c=4 d=3.81831 t=83
+qk jx 	请假	c=4 d=3.87384 t=85
+qk[yo 	请	c=2 d=1.99501 t=91
+qm cg 	浅层	c=4 d=3.80017 t=70
+qm mm 	前面	c=2 d=1.99501 t=44
+qm[bd 	前	c=1 d=1 t=59
+qp hr 	切换	c=4 d=3.37304 t=91
+qp[la 	且	c=1 d=0.960789 t=94
+qu de 	取得	c=2 d=1.86936 t=103
+qu[ts 	去	c=2 d=1.99501 t=86
+rg le 	扔了	c=2 d=1.99501 t=67
+ru he 	如何	c=8 d=6.82799 t=79
+ru he jl 	如何将	c=2 d=1.99501 t=69
+ru[nk 	如	c=1 d=1 t=76
+ru[nk ph[ob 	如胖	c=1 d=1 t=76
+sz[fy 	搜	c=4 d=3.92141 t=77
+tj td jb 	澹台烬	c=1 d=1 t=94
+ts go 	通过	c=7 d=6.5457 t=80
+tu pm 	图片	c=2 d=1.99501 t=19
+uf me 	什么	c=2 d=1.99501 t=78
+uh ie 	上车	c=2 d=1.99501 t=50
+uh pk 	上屏	c=2 d=1.99501 t=94
+ui fz 	是否	c=6 d=5.51835 t=84
+ui ys 	使用	c=3 d=2.89985 t=51
+ui[oc 	时	c=1 d=0.985112 t=94
+ui[zk 	适	c=2 d=1.95551 t=94
+uk dc 	甩到	c=2 d=1.99501 t=68
+uu ru 	输入	c=4 d=2.70845 t=94
+uu ru fa 	输入法	c=4 d=3.47295 t=88
+ve ge 	这个	c=2 d=1.99501 t=49
+ve ll tm 	这两天	c=2 d=1.99501 t=55
+ve rf 	这人	c=1 d=1.0995 t=79
+ve rf lq ll 	这人流量	c=1 d=1 t=79
+vg ih 	正常	c=2 d=1.99501 t=82
+vh pg 	帐篷	c=4 d=3.93106 t=117
+vi jp 	直接	c=2 d=1.99501 t=65
+vi ng 	只能	c=2 d=1.99501 t=101
+vi qm 	之前	c=2 d=1.99501 t=37
+vj[lk 	占	c=2 d=1.99501 t=52
+vs yk wf 	中英文	c=2 d=1.99501 t=92
+wf dh 	文档	c=2 d=1.99501 t=30
+wf jm 	文件	c=2 d=1.99501 t=17
+wf ti 	问题	c=4 d=3.46558 t=86
+wh[iv 	往	c=2 d=1.99501 t=97
+wj le 	晚了	c=2 d=1.99501 t=51
+wo de 	我的	c=4 d=3.95052 t=28
+wo ts ui 	我同事	c=2 d=1.99501 t=72
+wo xl zd 	我想在	c=2 d=1.99501 t=70
+wo yz 	我有	c=2 d=1.99501 t=113
+wu tm 	五天	c=2 d=1.99501 t=92
+ww[dd 	为	c=4 d=3.96032 t=36
+xb zg 	新增	c=2 d=1.99501 t=27
+xk[kp 	形	c=2 d=1.99501 t=90
+xl de 	想的	c=2 d=1.89771 t=94
+xl fa 	想法	c=0 d=0.0965605 t=94
+xl fa hf vs yc 	想法很重要	c=1 d=0.970446 t=94
+xm zd 	现在	c=2 d=1.99501 t=49
+xn lh hc 	小狼毫	c=1 d=0.995012 t=94
+xn tv ie 	小推车	c=2 d=1.99501 t=114
+xp lz 	泄露	c=4 d=3.86447 t=87
+xq fu 	修复	c=4 d=3.83664 t=16
+xq gd 	修改	c=6 d=5.82978 t=35
+xq gd wj 	修改完	c=2 d=1.99501 t=38
+xt dc le 	学到了	c=2 d=1.99501 t=83
+xx ci 	下次	c=2 d=1.99501 t=84
+yb ru 	引入	c=2 d=1.99501 t=20
+yb[lo 	音	c=2 d=1.99501 t=89
+ye jq 	也就	c=2 d=1.99501 t=100
+yi dc 	一到	c=2 d=1.99501 t=93
+yi iu 	溢出	c=4 d=3.72074 t=85
+yi qi 	一起	c=2 d=1.99501 t=108
+yi xp 	一些	c=2 d=1.99501 t=72
+yk gd 	应该	c=2 d=1.99501 t=76
+yu yj fu wu 	语言服务	c=1 d=0.99005 t=94
+yz dm 	优点	c=2 d=1.99501 t=51
+yz dm 	有点	c=2 d=1.99501 t=54
+yz ge 	有个	c=0 d=0.1 t=51
+yz[uo 	有	c=6 d=5.51835 t=85
+zi ds 	自动	c=2 d=1.99501 t=93
+zi yr 	资源	c=2 d=1.99501 t=53
