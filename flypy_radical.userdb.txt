@@ -5,4 +5,4 @@
 #@/tick	2
 #@/user_id	a67da375-4ab1-4331-be02-078713dfce08
 daba 	夿	c=1 d=1 t=2
-wabd 	瓸	c=1 d=1 t=1
+wabd 	瓸	c=1 d=0.995012 t=2

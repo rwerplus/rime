@@ -4,7 +4,7 @@
 #@/rime_version	1.8.5
 #@/tick	1
 #@/user_id	a67da375-4ab1-4331-be02-078713dfce08
-fu mu en 	父母恩	c=0 d=0.1 t=0
-huo 	或	c=0 d=0.1 t=0
-ni zai 	你在	c=0 d=0.1 t=0
+fu mu en 	父母恩	c=0 d=0.0995012 t=1
+huo 	或	c=0 d=0.0995012 t=1
+ni zai 	你在	c=0 d=0.0995012 t=1
 ni zai fu mu en huo 	你在父母恩或	c=1 d=1 t=1

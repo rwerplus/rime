@@ -2,8 +2,21 @@
 #@/db_name	flypy_xhfast
 #@/db_type	userdb
 #@/rime_version	1.8.5
-#@/tick	3
+#@/tick	15
 #@/user_id	a67da375-4ab1-4331-be02-078713dfce08
-kk[xg 	快	c=2 d=1.99501 t=1
-pb yb 	拼音	c=2 d=1.99501 t=2
-uu ru 	输入	c=2 d=1.99501 t=3
+fj ye 	翻页	c=2 d=1.99501 t=8
+hf vs yc 	很重要	c=0 d=0.1 t=8
+kk[xg 	快	c=2 d=1.97516 t=15
+ne[kb 	呢	c=1 d=1 t=6
+ni ui zf me 	你是怎么	c=2 d=1.99501 t=4
+pb yb 	拼音	c=2 d=1.98506 t=15
+qp[la 	且	c=1 d=1 t=7
+tj td jb 	澹台烬	c=1 d=1 t=15
+ui[oc 	时	c=1 d=1 t=12
+ui[zk 	适	c=2 d=1.99501 t=11
+uu ru 	输入	c=2 d=1.99501 t=15
+xl de 	想的	c=2 d=1.99501 t=5
+xl fa 	想法	c=0 d=0.1 t=8
+xl fa hf vs yc 	想法很重要	c=1 d=1 t=9
+xn lh hc 	小狼毫	c=1 d=1 t=14
+yu yj fu wu 	语言服务	c=1 d=1 t=13
