@@ -48,6 +48,8 @@ tips: __include属性为预设主题配置
 ```
 
 # 支持的词库
+
+- 部署完成后无法使用或者部署长时间没反应看这里 https://github.com/boomker/rime-fast-xhup/issues/13
 - [新增输入法双拼加辅助码方案](https://github.com/boomker/rime-fast-xhup)
 
   
