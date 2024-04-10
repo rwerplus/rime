@@ -48,7 +48,9 @@ tips: __include属性为预设主题配置
 ```
 
 # 支持的词库
-- [新增输入法双拼加辅助码方案](https://github.com/boomker/rime-fast-xhup Rime) 
+- [新增输入法双拼加辅助码方案](https://github.com/boomker/rime-fast-xhup)
+
+  
 ![Alt text](resources/image-4.png)
 ![Alt text](resources/image-1.png)
 ![Alt text](resources/image-2.png)
