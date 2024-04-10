@@ -22,13 +22,13 @@ style:
   paging_on_scroll: false # 鼠标滚轮翻页候选词
 
   horizontal: true # 水平排列候选词
-  font_face: Segoe UI Emoji:30:39, Noto Color Emoji, yolan, LXGW WenKai, Microsoft YaHei # 主要字体
-  label_font_face: yolan # 标签字体
-  comment_font_face: yolan # 注释字体
+  font_face: Segoe UI Emoji:30:39, Noto Color Emoji, LXGW WenKai, yolan, Microsoft YaHei # 主要字体
+  label_font_face: LXGW WenKai # 标签字体
+  comment_font_face: LXGW WenKai # 注释字体
   font_point: 12 # 主要字体大小
   label_font_point: 12 # 标签字体大小
   comment_font_point: 12 # 注释字体大小
-  mark_text: "🏕️" # 标记标记文本
+  mark_text: "🤔" # 标记标记文本
 
   vertical_auto_reverse: false # 垂直排列时自动反转顺序
   vertical_text: false # 垂直文本显示

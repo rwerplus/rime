@@ -1,0 +1,9 @@
+# Rime user dictionary
+#@/db_name	flypy_xhfast
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	3
+#@/user_id	a67da375-4ab1-4331-be02-078713dfce08
+kk[xg 	快	c=2 d=1.99501 t=1
+pb yb 	拼音	c=2 d=1.99501 t=2
+uu ru 	输入	c=2 d=1.99501 t=3

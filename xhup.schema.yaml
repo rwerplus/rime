@@ -57,7 +57,7 @@ engine:
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   # delimiter: " ;'"
-  max_code_length: 4
+  max_code_length: 12
   auto_select: true
   auto_select_unique_candidate: true
 

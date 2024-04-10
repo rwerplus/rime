@@ -1,0 +1,40 @@
+# Rime schema settings
+# encoding: utf-8
+# Copyright (C) Mirtle <mirtle.cn@outlook.com>
+# License: CC BY-SA 4.0 DEED (https://creativecommons.org/licenses/by-sa/4.0/)
+
+schema:
+  schema_id: flypy_radical
+  name: "飞鹤拆字"
+  version: "1.1"
+  author: Mirtle
+  description: |
+    用拼音按顺序拼出偏旁部件，以输入汉字。
+    码表：開放詞典 / henrysting / Mirtle
+    注音、校对、方案：Mirtle
+    报错：<https://github.com/mirtlecn/rime_radical_pinyin>
+
+engine:
+  processors:
+    - key_binder
+    - speller
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - abc_segmentor
+  translators:
+    - echo_translator
+    - table_translator
+  filters:
+    - uniquifier
+
+key_binder:
+  __include: default:/key_binder?
+
+speller:
+  alphabet: "abcdefghijklmnopqrstuvwxyz"
+  delimiter: " '"
+
+translator:
+  dictionary: flypy_radical

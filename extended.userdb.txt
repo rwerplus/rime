@@ -2,9 +2,56 @@
 #@/db_name	extended
 #@/db_type	userdb
 #@/rime_version	1.8.5
-#@/tick	4
+#@/tick	62
 #@/user_id	a67da375-4ab1-4331-be02-078713dfce08
-fang an 	方案	c=1 d=1 t=4
-shuang pin 	双拼	c=1 d=0.995012 t=4
-wo de 	我的	c=1 d=0.99005 t=4
-zhe shi 	这是	c=1 d=0.985112 t=4
+bu 	不	c=0 d=0.1 t=44
+bu ke neng 	不可能	c=1 d=1 t=45
+de 	的	c=2 d=1.745 t=62
+dian 	电	c=1 d=1 t=55
+er 	而	c=0 d=0.0852144 t=62
+fang an 	方案	c=2 d=1.74048 t=62
+gai wei 	改为	c=1 d=1 t=58
+hai shi 	还是	c=1 d=1 t=44
+hao wan 	好玩	c=1 d=1 t=50
+hen xiang 	很想	c=1 d=0.99005 t=62
+hu 	虎	c=1 d=1 t=62
+hui 	会	c=1 d=1.02571 t=62
+kai fa 	开发	c=1 d=1 t=53
+ke neng 	可能	c=1 d=1.09501 t=44
+ke yi 	可以	c=2 d=1.84175 t=62
+mi yao 	密钥	c=1 d=0.891366 t=62
+ne 	呢	c=2 d=1.80337 t=62
+ni 	你	c=0 d=0.0852144 t=62
+ni er ke yi 	你而可以	c=2 d=1.81241 t=62
+ni shi 	你是	c=1 d=1 t=62
+qi shi 	其实	c=2 d=1.95551 t=62
+qian duan 	前端	c=1 d=0.904837 t=62
+qun li 	群里	c=1 d=1 t=60
+shi 	是	c=1 d=0.873716 t=62
+shu chu 	输出	c=1 d=0.923116 t=62
+shuang pin 	双拼	c=3 d=2.43361 t=62
+sui bi 	随笔	c=1 d=0.927743 t=62
+ta 	他	c=1 d=0.869358 t=62
+ti dai pin 	替代品	c=1 d=1 t=54
+wang 	网	c=1 d=1 t=57
+wei 	微	c=1 d=0.900325 t=62
+wen dang 	文档	c=1 d=0.913931 t=62
+wen ti 	问题	c=1 d=1 t=48
+wen wen 	问问	c=2 d=1.82581 t=62
+wen zi 	文字	c=1 d=0.932394 t=62
+wo 	我	c=2 d=1.91781 t=62
+wo de 	我的	c=2 d=1.78844 t=62
+wo zen me 	我怎么	c=1 d=0.937067 t=62
+wo zen me hui 	我怎么会	c=1 d=1 t=42
+xi tong 	系统	c=1 d=1 t=52
+xiang 	想	c=1 d=0.882497 t=62
+xiang fa 	想法	c=1 d=0.970446 t=62
+xie fa 	写法	c=1 d=1 t=59
+yi 	已	c=1 d=0.918512 t=62
+yi ge 	一个	c=1 d=1 t=47
+you 	有	c=1 d=1 t=61
+zen me 	怎么	c=1 d=1.05528 t=62
+zen me hui 	怎么会	c=1 d=0.843665 t=62
+zhe shi 	这是	c=2 d=1.81004 t=62
+zhi dao 	知道	c=3 d=2.78939 t=62
+zhi wang 	知网	c=1 d=1 t=56

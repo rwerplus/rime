@@ -1,95 +1,224 @@
-# Rime table
-# coding: utf-8
-#
-# 请将该文件以UTF-8编码保存为
-# Rime用户文件夹/custom_phrase.txt
-#
-# 码表各字段以制表符（Tab）分隔
-# 顺序为：文字、编码、权重（决定重码的次序、可选）
-#
-# 虽然文本码表编辑较为方便，但不适合导入大量条目
+## 置顶词与自定义词组在这个文件里指定
+## 格式：文本-输入码-权重，其间用 Tab 符分隔。
+## 如要添加新的，可以复制已有的行，然后在其基础上修改。
+## 置顶字词
+啊	a	1
+把	b	1
+吧	b	2
+才	c	1
+大	d	1
+的	d	2
+发	f	1
+个	g	1
+和	h	1
+好	h	2
+出	i	1
+吃	i	2
+将	j	1
+就	j	2
+可	k	2
+了	l	1
+没	m	1
+吗	m	2
+能	n	1
+你	n	2
+哦	o	1
+去	q	1
+人	r	1
+搜	s	1
+它	t	1
+她	t	2
+他	t	3
+是	u	2
+说	u	1
+这	v	1
+我	w	1
+些	x	2
+下	x	1
+有	y	2
+又	y	1
+在	z	2
 
-中州韵输入法引擎	rime	2
-https://rime.im/	rime	1
+
+## 常用个人信息
+## 注意最后的数字控制优先级，希望排在前面的要设置得大一些
+## 姓名（在custom_phrase.txt里设置）	afxm	64
+## xxx（学号/工号）	afxh	60
+## xx学院/部门	afxy	48
+
+## 常用短语
+微信	wx
+一个	yg
+有个	yg
+哪里	nl	1
+因为	yw	1
+查询	ix	4
+重新	ix	3
+才行	ix	2
+出现	ix	1
+成本	ib	3
+差别	ib	2
+初步	ib	1
+是吧	ub	4
+失败	ub	3
+上班	ub	2
+傻逼	ub	1
+上图	ut	4
+身体	ut	3
+视图	ut	2
+渗透	ut	1
+对吧	db	4
+对比	db	3
+从来	cl	4
+出来	cl	3
+处理	cl	2
+策略	cl	1
+才能	cn	2
+传你	cn	1
+出门	cm	3
+聪明 	cm	2
+从没	cm	1
+窗口	ck	5
+查看	ck	4
+参考	ck	3
+仓库	ck	2
+出口	ck	1
+好吧	hb	1
+这边	vb	1
+哦哦	oo	3
+噢噢	oo	2
+喔喔	oo	1
+有没有	ymy	2
+也没有	ymy	1
+有没有	umu	1
+我这边	wvb	1
+你那边	nnb	2
+您那边	nnb	1
+手机号	sjh	1
+没什么	mum	1
+什么鬼	umg	1
+馬上到	msd	1
+是不是	ubu	1
+怎样的	zyd	1
+怎么样了	zmyl
+怎么样了	zmwl
+截图看看	jtkk
+截图看下	jtkx
+又双叒叕	yyyy
+那么	name	1
+有吗	um	1
+什么	um	2
+什么情况	umqk
+什么情况	umfk
+什么意思	umys
+什么玩意儿	umwy
+什麼玩意兒!	wtf	2
+What the fuck!	wtf	1
+WTF	wtf	3
+正在開會，一會給你回復:)	meet
+中州韻輸入法引擎	rime	2
+http://rime.im/	rime	1
 Rime	rime	3
-⌘	cmd
-⌘	command
-⌃	ctl
-⌃	control
-⌥	opt
-⌥	option
-⇧	shift
 
-Android	android
-Apple	apple
-Apple ID	appleid
-Clash	clash
-Cloudflare	cloudflare
-Cloudflare Workers	cloudflareworkers
-CSS	css
-Dropbox	dropbox
-GBK	gbk
-GitHub	github
-Google	google
-Linux linux
-HTML	html
-iCloud	icloud
-iMac	imac
-iOS	ios
-iPad	ipad
-iPad	ipad
-iPhone	iphone
-iPhone Xʀ	iphonexr
-iPod	ipod
-IPTV	iptv
-IPv4	ipv
-IPv6	ipv
-iTunes	itunes
-Java	java
-JavaScript	javascript
-jQuery	jquery
-Linux	linux
-Mac	mac
-Mac App Store	mas
-MacBook	macbook
-MacBook Air	mba
-MacBook Pro	mbp
-macOS	macos	7
-macOS Sonoma	macos	6
-macOS Ventura	macos	5
-macOS Monterey	macos	4
-macOS Catalina	macos	3
-macOS Mojave	macos	2
-macOS High Sierra	macos	1
-Magisk	magisk
-Minecraft	minecraft
-MySQL	mysql
-Objective-C	ojbc
-OneDrive	onedrive
-OS X	osx
-Pixel	pixel
-Python	python
-QQ 邮箱	qqyzxl
-Quantumult	quantumult
-Ruby	ruby
-Rust	rust
-SQL	sql
-Stash	stash
-Surge	surge
-Swift	swift
-Tailscale	tailscale
-TypeScript	typescript
-T恤	txu
-UTF-8	utfba
-U盘	upj
-WeChat	wechat
-Wi-Fi	wifi
-Windows	win
-Windows	windows
-X-Ray	xray
-Xbox	xbox
-Xbox One	xboxone
-YouTube	youtube
-ZeroTier	zerotier
-又双叒叕	yyy
-又双叒叕	yzyzyz
+
+## 简单单词
+new	new	2
+Mac	mac	2
+DevOps	devo	2
+Django	djan	2
+Deploy	depl	2
+GitHub	gith	1
+NeoVim	neovi	1
+VSCode	vscode	1
+Kubernetes	kube	1
+auto	auto	10000
+base	base	10000
+beep	beep	10000
+bind	bind	10000
+bell	bell	10000
+boss	boss	10000
+call	call	10000
+care	care	10000
+come	come	10000
+cron	cron	10000
+data	data	10000
+date	date	10000
+disk	disk	10000
+face	face	10000
+fail	fail	10000
+file	file	10000
+fill	fill	10000
+find	find	10000
+full	full	10000
+game	game	10000
+give	give	10000
+good	good	10000
+hash	hash	10000
+helm	helm	10000
+help	help	10000
+here	here	10000
+hero	hero	10000
+hold	hold	10000
+home	home	10000
+huge	huge	10000
+icon	icon	10000
+iron	iron	10000
+jump	jump	10000
+less	less	10000
+line	line	10000
+link	link	10000
+lion	lion	10000
+make	make	10000
+mark	mark	10000
+mask	mask	10000
+math	math	10000
+mean	mean	10000
+melt	melt	10000
+mind	mind	10000
+mode	mode	10000
+moon	moon	10000
+name	name	10000
+node	node	10000
+noon	noon	10000
+note	note	10000
+null	null	10000
+once	once	10000
+only	only	10000
+over	over	10000
+page	page	10000
+ping	ping	10000
+push	push	10000
+rule	rule	10000
+same	same	10000
+send	send	10000
+side	side	10000
+sign	sign	10000
+size	size	10000
+some	some	10000
+soon	soon	10000
+such	such	10000
+take	take	10000
+talk	talk	10000
+task	task	10000
+tell	tell	10000
+then	then	10000
+this	this	10000
+time	time	10000
+true	true	10000
+turn	turn	10000
+user	user	10000
+week	week	10000
+when	when	10000
+wide	wide	10000
+wise	wise	10000
+wish	wish	10000
+with	with	10000
+work	work	10000
+while	while	10000
+which	which	10000
+build	build	10000
+enter	enter	10000
+emoji	emoji	10000
+false	false	10000
+hello	hello	10000
+query	query	10000

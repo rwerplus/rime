@@ -1,12 +1,14 @@
-customization:
-  distribution_code_name: Weasel
-  distribution_version: 0.15.0.0
-  generator: "Rime::SwitcherSettings"
-  modified_time: "Thu Oct 19 15:39:36 2023"
-  rime_version: 1.8.5
+# default.custom.yaml
+# save it to:
+#   ~/.config/ibus/rime  (linux)
+#   ~/Library/Rime       (macos)
+#   %APPDATA%\Rime       (windows)
+
 patch:
-  "menu/page_size": 3
   schema_list:
-    - {schema: flypy}
-    - {schema: lufs_flypy}
-    - {schema: luna_quanpin}
+    - schema: flypy_xhfast
+    - schema: flypy_radical
+    - schema: melt_eng
+    - schema: flypy_phrase
+    # - schema: flypy_zrmfast
+    # - schema: emoji               # emoji表情
