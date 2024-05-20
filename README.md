@@ -5,14 +5,15 @@
 # 皮肤预览（Windows）
 
 > rime 黑色主题
-
-![Alt text](./resources/image.png)
+![image](https://github.com/rwerplus/rime/assets/48611415/277c4d6d-32b2-464a-a400-12ab9b892305)
 
 > 亮色主题
+![image](https://github.com/rwerplus/rime/assets/48611415/af3fa049-e5f4-4906-9f93-785a44a153c9)
 
-![Alt text](./resources/light.png)
 
-使用的字体为悦圆（商用需购买，个人可以免费使用）
+使用的字体为[LXGW WenKai](https://github.com/lxgw/LxgwWenKai)
+
+// 使用的字体为悦圆（商用需购买，个人可以免费使用）
 
 # 使用
 
@@ -57,3 +58,11 @@ tips: __include属性为预设主题配置
 ![Alt text](resources/image-1.png)
 ![Alt text](resources/image-2.png)
 ![Alt text](resources/image-3.png)
+
+
+
+
+
+
+
+
