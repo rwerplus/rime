@@ -4,10 +4,10 @@
 
 # 皮肤预览（Windows）
 
-> rime 黑色主题
+> 黑色主题 Lumk_dark
 ![image](https://github.com/rwerplus/rime/assets/48611415/277c4d6d-32b2-464a-a400-12ab9b892305)
 
-> 亮色主题
+> 亮色主题 Lumk_Light
 ![image](https://github.com/rwerplus/rime/assets/48611415/af3fa049-e5f4-4906-9f93-785a44a153c9)
 
 
