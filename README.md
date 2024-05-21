@@ -53,6 +53,14 @@ update_time: "Wed Sep 13 10:23:33 2023"
 ```yaml
 tips: __include属性为预设主题配置
 ```
+### 鸣谢
+
+* [自然快手](https://github.com/functoreality/rime-flypy-zrmfast), 本项目方案最开始受到此项目启发, 多个功能来源于它
+* [雾凇拼音](https://github.com/iDvel/rime-ice), 本项目方案词库由此项目转换而来, 一些功能来源于它
+* [汉字部件拆字](https://github.com/mirtlecn/rime-radical-pinyin), 汉字反查方案功能来源于它
+* [Rime 输入法双拼加辅助码方案](https://github.com/boomker/rime-fast-xhup),  参考方案
+* [Rime](http://rime.im/),  开源输入法框架, 本项目方案来源于它
+* 热心网友, 其他开源输入法方案
 
 # 支持的词库
 
