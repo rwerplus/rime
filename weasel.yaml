@@ -47,7 +47,7 @@ style:
   color_scheme: win11_weasel # 颜色方案
 
 preset_color_schemes:
-  Lumk:
+  Lumk_light:
     name: "鹿鸣／Lumk"
     author: "Lumk X <x@xx.cc>"
     back_color: 0xF9F9F9
@@ -62,6 +62,21 @@ preset_color_schemes:
     label_color: 0x888785
     text_color: 0x8100EB
     shadow_color: 0x20000000
+
+  Lumk_dark:
+    author: "鹿鸣／Lumk"
+    back_color: 0x252a2e
+    border_color: 0x050505
+    text_color: 0x424242
+    hilited_back_color: 0xD75A00
+    hilited_candidate_text_color: 0xFFFFFF
+    hilited_candidate_label_color: 0xFFFFFF
+    hilited_comment_text_color: 0x999999
+    hilited_text_color: 0x999999
+    candidate_text_color: 0xe9e9ea
+    comment_text_color: 0x999999
+    label_color: 0x999999
+    shadow_color: 0x808080
 
   win10:
     candidate_text_color: 0x000000
@@ -90,21 +105,6 @@ preset_color_schemes:
     comment_text_color: 0x999999
     label_color: 0x999999
 
-  macos_dark:
-    author: "一方<liuour@gmail.com>"
-    back_color: 0x252a2e
-    border_color: 0x050505
-    text_color: 0x424242
-    hilited_back_color: 0xD75A00
-    hilited_candidate_text_color: 0xFFFFFF
-    hilited_candidate_label_color: 0xFFFFFF
-    hilited_comment_text_color: 0x999999
-    hilited_text_color: 0x999999
-    candidate_text_color: 0xe9e9ea
-    comment_text_color: 0x999999
-    label_color: 0x999999
-    shadow_color: 0x999999
-    
   macos12_light:
     name: "高仿亮色 macOS"
     author: "Lufs X <i@isteed.cc>"
@@ -174,7 +174,6 @@ win11_preset:
     margin_y: 10 # 窗口上下边距
     spacing: 14 # 候选词间距
     hilite_spacing: 10 # 高亮显示间距
-    shadow_offset_x: 6 # 阴影 X 轴偏移
 
     candidate_spacing: 10 # 候选词内部间距
     corner_radius: 6 # 候选圆角半径
@@ -182,8 +181,9 @@ win11_preset:
     hilite_padding_x: 7 # 高亮 X 横向方向边距
     hilite_padding_y: 6 # 高亮 Y 纵向方向边距
     round_corner: 6 # 高亮圆角
-    shadow_offset_y: 6 # 阴影 Y 轴偏移
-    shadow_radius: 13 # 阴影半径
+    shadow_offset_x: 2 # 阴影 X 轴偏移
+    shadow_offset_y: 2 # 阴影 Y 轴偏移
+    shadow_radius: 4 # 阴影半径
 
 win10_preset:
   label_format: "%s" # 候选词标签格式
